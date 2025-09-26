@@ -78,3 +78,22 @@ class Queue{
 
     return 0;
     }
+
+
+/*==========OUTPUTS==========
+10 inserted into queue
+20 inserted into queue
+30 inserted into queue
+40 inserted into queue
+50 inserted into queue
+Queue Overflow
+Queue elements: 10 20 30 40 50 
+10 removed from queue
+20 removed from queue
+30 removed from queue
+40 removed from queue
+50 removed from queue
+Queue Underflow/ Empty Queue!
+Queue Underflow/ Empty Queue!
+Queue is empty
+*/
